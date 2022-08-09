@@ -1,5 +1,7 @@
 # Fractional NFT Contract
 
+The actual contract solidity can be found under the "contracts" folder.
+
 Following are the business flow of this smart contract. For the sake of simplicity the original NFT holder is named as "KING", the fractional owners are combinedly named as "citizens", and a random wallet is named as "JACK".
 
 ### The contract has been deployed and verified on Rinkeby Network and the same can be verified at:
